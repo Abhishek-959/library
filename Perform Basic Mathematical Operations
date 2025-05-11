@@ -1,0 +1,29 @@
+
+
+a=eval(input("Enter first Number: "))
+b=eval(input("Enter the second number: "))
+c=str(input("Enter operator: "))
+d=str(input("Enter operator: "))
+e=str(input("Enter operator: "))
+f=str(input("Enter operator: "))
+
+
+
+if c == '+':
+  print("Addition:" , a+b)
+
+if d == '-':
+  print("subtraction:" , a-b)
+
+if e == '*':
+  print("Multiply: " , a*b ) 
+
+if f == '/':
+ print("divide:" , a/b )  
+
+else:
+  print("unknown parameter")  
+
+
+
+
