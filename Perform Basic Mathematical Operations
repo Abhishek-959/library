@@ -16,10 +16,10 @@ if d == '-':
   print("subtraction:" , a-b)
 
 if e == '*':
-  print("Multiply: " , a*b ) 
+  print("Multiplication: " , a*b ) 
 
 if f == '/':
- print("divide:" , a/b )  
+ print("division:" , a/b )  
 
 else:
   print("unknown parameter")  
